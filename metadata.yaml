@@ -1,10 +1,16 @@
 _repo: Motor-Matt-s-Quest-or-Three-Chums-in-Strange-Waters_49644
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49644-h/images/coverlarge.jpg
 creator:
   author:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49644#Motor-Matt-s-Quest-or-Three-Chums-in-Strange-Waters
 gutenberg_issued: '2015-08-07'
 gutenberg_type: Text
 identifiers:
